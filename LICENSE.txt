@@ -1,0 +1,33 @@
+﻿BAD CHEESE — THAI SUBTITLES MOD
+LICENSE / สัญญาอนุญาต
+
+1) Thai translation and mod packaging
+   แปลภาษาไทยและไฟล์สคริปต์ติดตั้ง
+
+   Copyright (c) 2026 ดอกตีนเป็ดหอมแฮง
+   Licensed under Creative Commons
+   Attribution-NonCommercial-ShareAlike 4.0 International
+   (CC BY-NC-SA 4.0)
+
+   https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+   You may share and adapt this work for non-commercial purposes,
+   provided that you give appropriate credit and share adaptations
+   under the same license.
+
+   คุณสามารถแชร์และดัดแปลงงานนี้ได้เพื่อวัตถุประสงค์ที่ไม่ใช่
+   เชิงพาณิชย์ โดยต้องให้เครดิตผู้แปลและเผยแพร่งานดัดแปลง
+   ภายใต้สัญญาอนุญาตเดียวกัน
+
+2) Fonts
+   ฟอนต์ Sarabun และ Itim อยู่ภายใต้ SIL Open Font License 1.1
+   ดูรายละเอียดทั้งหมดใน OFL.txt และ OFL_Itim.txt
+
+3) Game assets
+   ตัวเกม ตัวละคร ข้อความต้นฉบับ และทรัพย์สินอื่น ๆ ของเกม
+   เป็นลิขสิทธิ์ของผู้พัฒนาและเจ้าของสิทธิ์ตามกฎหมาย
+   มอดนี้เป็นงานแฟนทรานสเลชันที่ไม่เป็นทางการ
+   และไม่ได้มีความเกี่ยวข้องกับผู้พัฒนาเกม
+
+4) No selling
+   ห้ามนำมอดนี้ไปขายหรือใช้ในเชิงพาณิชย์

@@ -1,0 +1,43 @@
+﻿Bad Cheese — Thai Subtitles Mod
+Version: 1.1.0
+Release date: 2026-10-24
+
+Game: Bad Cheese (Steam / Epic Games Store)
+Game build: v1.02.00 05.09.2025 18-36
+Engine: Unreal Engine 5.5.4
+
+Translator: ดอกตีนเป็ดหอมแฮง
+Facebook Page: ดอกตีนเป็ดหอมแฮง
+
+Fonts:
+- Sarabun Medium for the main UI/dialogue
+- Sarabun Bold for wqy-microhei replacement
+- Itim for Sobiscuit / Pause menu / objective / credits headings
+- Sarabun and Itim are licensed under SIL OFL 1.1
+
+Contents:
+- Thai_P.pak
+- ThaiMenu_P.pak / ThaiMenu_P.ucas / ThaiMenu_P.utoc
+- install.bat / install.ps1
+- uninstall.bat / uninstall.ps1
+- README_TH.txt / README_EN.txt
+- CREDITS.txt / LICENSE.txt
+- OFL.txt (Sarabun) / OFL_Itim.txt (Itim)
+- SHA256SUMS.txt
+- VERSION.txt
+
+Changes in 1.1.0:
+- Hints, objectives, in-game notes and achievement texts polished so they
+  read naturally in Thai (line breaks kept).
+- All in-game dialogue rewritten to sound natural in spoken Thai
+  (including Daddy's insults, as in the original English).
+- Added the translator credit to the top-right corner of the main menu:
+    v1.02.00 05.09.2025 18-36
+    แปลไทยโดย ดอกตีนเป็ดหอมแฮง
+- The installer now supports Steam as well as Epic Games (one installer
+  detects both stores automatically).
+- The uninstaller removes all mod files and the backups made from older
+  versions, so the game goes back to English.
+
+Changes in 1.0.1:
+- Sobiscuit now uses Itim instead of Sarabun.

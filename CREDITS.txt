@@ -1,0 +1,23 @@
+﻿BAD CHEESE — THAI SUBTITLES MOD
+CREDITS / เครดิต
+
+Thai translation / แปลภาษาไทย:
+  ดอกตีนเป็ดหอมแฮง
+  Facebook Page: ดอกตีนเป็ดหอมแฮง
+
+In-game credit / เครดิตในเกม:
+  The main menu shows this text at the top right:
+    v1.02.00 05.09.2025 18-36
+    แปลไทยโดย ดอกตีนเป็ดหอมแฮง
+
+Fonts / ฟอนต์:
+  Sarabun by Cadson Demak / Google Fonts
+  Itim by Cadson Demak / Google Fonts
+  Licensed under SIL Open Font License 1.1
+  See OFL.txt and OFL_Itim.txt
+
+Game / เกม:
+  Bad Cheese by LUKASIK x FEARDEMIC
+
+This is an unofficial fan translation. Do not sell it.
+If you share it, keep this credit file and credit the translator/page.
